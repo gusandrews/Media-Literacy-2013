@@ -2,6 +2,7 @@ Media-Literacy
 ==============
 
 Syllabus for a media literacy course to be taught at Marist College in 2012-2013.
+This was going to be a fork from <a href="https://github.com/gusandrews/adelphi-ed-tech-courses">the Digital Literacies course</a> I was working on with Matt Curinga -- and if you look at contemporary commits you should see they has a similar flavr -- but given that this course is for undergrads and that one is for masters-level educators-in-training, the literature was not really comparable and I had to start over. 
 
 As I write this syllabus, we seem to be in the early days of educators tracking the origins of their syllabi using tools like GitHub. Curriculum-writers in this era will be hard-pressed to trace the origins of their syllabi, as their own professors may have posted their syllabi to proprietary, ephemeral, and idiosyncratic courseware, handed them out as photocopied sheets in class, or perhaps even written them on typewriters.
 
