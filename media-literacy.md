@@ -82,16 +82,7 @@ Culture, and Technology), 3.
 _
 
 
-<table cellpadding="5" border="1px"><tr colspan=2>
-<td><h2>If you liked this,</h2></td> 
-<td><h2>read this</h2></td></tr>
-<tr>
-<td>Here Comes Everybody</td>
-<td>Goldhaber, attention economy http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/519/440</td></tr>
-</table>
-  
-  <br />
-</p>
+
 <table cellpadding="5" border="1px">
   <tbody>
 <tr>
@@ -425,12 +416,12 @@ Shirky and Fallows</p></td>
 </tr>
 <tr>
   <td>Session 29, Monday, December 10: </td>
-  <td><strong>Final Project Presentations</strong></td>
+  <td><strong>Final Project Presentations; Final Project Due</strong></td>
   <td>&nbsp;</td>
 </tr>
 <tr>
   <td>Session 30, Thursday, December 13: </td>
-  <td><strong>Final Project Presentations</strong></td>
+  <td><strong>Final Project Presentations; Revisions Due</strong></td>
   <td>&nbsp;</td>
 </tr>
   </tbody>
@@ -464,12 +455,295 @@ Due Thursday, November 1: Shirky and Fallows (3 pages) (6%)
 
 Due Monday, November 19: Screencast (15%)
 
-Due December 10-13: Videos, scripts, and storyboards (30%)
+Due December 10: Videos, scripts, and storyboards (30%)
 
-Due December 10-13: Revision to one earlier assignment (not the one-page
+Due December 13: Revision to one earlier assignment (not the one-page
 assignments) (4%)
 
 Class participation will account for the remaining 10% of your grade.
 
+### Media panics (1 page, due Thursday, August 30)
 
-  
+**What do the "media panics" we're reading about have in common?** Gerbner
+said "The usual question – "Does television violence incite real-life
+violence?" – is itself a symptom rather than diagnostic tool of the problem."
+What might he have said was "the usual question" about medieval writing, the
+alphabet, comic books, Google, and Sesame Street? What do you think people's
+concerns about these media products were "symptoms" of?
+
+
+### Gee definitions exercise (digital worksheet on wiki, due Monday, September
+10)
+
+**This assignment will probably be easier if you provide examples of something
+in the media that YOU are a fan of. But if you're uncomfortable sharing, you
+can describe someone else and the media they are a fan of.**
+
+**Copy and paste these questions on your own wiki page. Write your answers
+between the questions, _as full sentences,_ formatting the questions
+differently and using line spacing to be sure everything is readable.**
+
+Give me a tour of a SEMIOTIC DOMAIN and an IDENTITY related to a movie, band,
+show, broadcast event, book, comic, website, game, or other media "text." Use
+examples from the Internet.
+
+What SEMIOTIC DOMAIN are you going to be talking about?
+
+Link to a site which relates to this semiotic domain.
+
+Remember that a specific semiotic domain is different from "general
+knowledge."
+
+Give me an example of an IDENTITY a person might take on to be a part of this
+semiotic domain.
+
+Then give me an example of an IDENTITY that person might have elsewhere in
+their life which might conflict with their identity in that semiotic domain.
+
+Why might these two identities conflict?
+
+Give me an example of an AFFINITY GROUP within this semiotic domain.
+
+Link to or post two VISUAL things that you/this person would need to be able
+to "read" to participate in the literacy specific to this domain. (Be
+specific: this should either be links to image files like .jpg or .png; if
+you're linking to a whole page, you need to tell me which visual element you
+are referring to.)
+
+For each one:
+
+What does the "reader" need to know to interpret these visual elements within
+this specific domain?
+
+How is the SITUATED MEANING of this visual element different in this domain
+than in another domain?
+
+Give two examples of DESIGN GRAMMAR elements that you/this person need to know
+to be LITERATE about this domain.
+
+Link to something which relates to a SOCIAL PRACTICE specific to this domain.
+In a couple of sentences, describe this social practice.
+
+How is the SITUATED MEANING of this social practice seen differently by people
+who do and do not participate in this domain?
+
+
+### Technological determinism (3 page paper or 5 page script, due Monday,
+September 17)
+
+Innis and McLuhan believed that media had certain effects on individuals and
+society. Which of the "media panics" we read about earlier assume the same or
+similar effects? Given his critique of Innis's and McLuhan's work, what would
+Carey say about these panics?
+
+You have three options for writing this:
+
+  * Option 1: write it as a traditional paper; 3 pages.
+
+  * Option 2: write it as a script for a five-minute episode of The Media
+Show, using Weena, Erna, the Intern, and other characters as you see fit; 5
+pages.
+
+  * Option 3: write it as a script for your own five-minute video; 5 pages.
+
+**IF YOU ARE WRITING A SCRIPT**: Be sure to specify how you will use visual
+elements to demonstrate the points you are making. Video is a visual medium;
+there's no point in using it if you're just going to have someone lecturing to
+the camera! (Yeah, I know. I am bad at following this advice myself.) See the
+example script if you need some guidance on how to include visuals.
+
+Recommended scriptwriting software: [Celtx][6] (it's free!)
+
+### Group scholarly article critique (about 5 pages, on wiki; due Monday, October
+1)
+
+This project counts as your midterm (I'm scheduling it a little early so you
+don't have all your midterms the same week.)
+
+**Group 1: **read Kalin 1997 Television, Violence, and Children (pp 1-9 and
+bibliography)
+
+**Group 2: **read Children and the perceived reality of television (pp 86-96)
+
+**Group 3: **read A Process-PFL Approach to Learning in Video Games (10 pp)
+
+**All groups:** read Ten things wrong with media effects (9 pp)
+
+Monday the 24th: we will set groups in class. You may want to communicate with
+your group members while doing the reading before the next class.
+
+Thursday the 27th (in class): **With your group, develop a critique of the
+article you read, addressing these questions:**
+
+  * What would the people we have read to date (Gee, Innis, McLuhan, Gerbner,
+scholars mentioned by Sardar and Hobbs, Prandstraller, Jenkins, and Gauntlett)
+say about the claims made in this article, and why?
+
+  * These articles make scientific claims, using statistics and evidence from
+experiments. How valid do you think they are? (This is sort of a "what's wrong
+with this picture?" assignment.) In addition to drawing on the theories we
+have read so far,** each member of your group should identify one decision**
+made by the researchers which could compromise the scientific results of their
+study. Some options might be the number of children studied, the ways they
+gathered their data, or the way they framed their research question, but other
+decisions are also fair game.
+
+Between classes, continue to write your group's critique. Post it on the wiki.
+
+Monday, October 1: Groups will present their critiques in class.
+
+### Fan production (1 page, due Thursday, October 15)
+
+Online, find an example of a fan community which has created its own work --
+writing, art, video, etc -- based on a mass media property.
+
+Places to start looking for fan works (but anywhere you find one is fine):
+
+  * DeviantArt
+
+  * Know Your Meme
+
+  * Fanfiction.net
+
+  * TVTropes
+
+  * YouTube
+
+On the wiki, link to it (post it if it is an image, embed it if it is a
+video).
+
+Briefly say something about what you think the original message of the media
+property is, as well as the intended original audience.
+
+Describe who you think the new audience of the "repurposed" text is (age?
+gender? race? class? education level?).
+
+Answer these questions in your writing:
+
+How have the fans "subverted" the original message, or if you don't think they
+have, why would you say they have not?
+
+Think back to Jim Gee's writing on video games and affinity groups, and
+Prandstraller's article on fans writing about U2. Would you say, like they do,
+that these fans are "active consumers" who are creating new meanings? Why or
+why not?
+
+### New vs old media assignment (5 page paper or 7 page script, due Monday,
+October 22)
+
+So now we've talked about how digital media differ from traditional
+conceptions of "mass" media. As Shirky points out, many of our societal
+assumptions about how the media work are still carried over from the age of
+mass media. For this assignment, I want you to think about the interactions of
+new and old media.
+
+Please compare the descriptions of new digital and old mass media from Shirky
+and McQuail to support your arguments.
+
+Pick one of these topics:
+
+  1. Ideas about what mass media do shape the critiques of representation of
+race, class, gender, ability, and other social groups ("affinity groups"?)
+that have been made for many years. In what ways have media environments and
+audiences changed that requires a change in critiques of representation? In
+what ways have things stayed the same? (Please address both questions.)
+
+  2. Think back to the "media effects" research and critiques we read
+earlier-- the studies of children and television, and the Gerbner and
+Gauntlett articles. In a digitally-mediated society, what has changed that
+supports or detracts from these assumptions about how media influence people?
+
+  3. Mass media and digital media exist side by side these days. Both Shirky
+and McQuail present claims about the effects of the shape of new and old
+media; so did McLuhan and Innis. How are technological determinist claims made
+by Shirky, McQuail, McLuhan, and Innis supported by or undermined by the
+interactions of new and old media?
+
+You have three options for writing this:
+
+  * Option 1: write it as a traditional paper; 5 pages.
+
+  * Option 2: write it as a script for a five-minute episode of The Media
+Show, using Weena, Erna, the Intern, and other characters as you see fit; 7
+pages.
+
+  * Option 3: write it as a script for your own five-minute video; 7 pages.
+
+**IF YOU ARE WRITING A SCRIPT**: Be sure to specify how you will use visual
+elements to demonstrate the points you are making. Video is a visual medium;
+there's no point in using it if you're just going to have someone lecturing to
+the camera! (Yeah, I know. I am bad at following this advice myself.) See the
+example script if you need some guidance on how to include visuals.
+
+Recommended scriptwriting software: [Celtx][6] (it's free!)
+
+### Shirky and Fallows (3 pages, due Thursday, November 1)
+
+Shirky writes, "in some cases the change that threatens the profession
+benefits society... even in these situations the professionals can be relied
+upon to care more about self-defense than about progress. What was once a
+service has become a bottleneck."
+
+Describe three "bottlenecks" that Fallows described in the 1990s which Shirky
+says have been addressed by the rise of digital media and their affordances.
+In your conclusion, discuss whether you think Shirky is correct in concluding
+that digital reporting has changed these problems.
+
+### Screencast (due Monday, November 19)
+
+Using software like [Jing][7], [Camtasia][8], [Fraps][9], [HyperCam][10], or
+[iShowU][11], do a walkthrough of a site that you use regularly.
+
+Navigate through and show the following elements of the website, and evaluate
+the following in your voiceover:
+
+  * Identifying the site. Who is involved in creating, editing, and moderating
+the content on this site? How do you know? How easy or hard is it to tell?
+Visit the site About page (if there is one, or talk about the lack of an About
+page if there isn't.)
+
+  * Do a WhoiIs lookup of the site's address, and talk about what you find.
+Also interpret the site address: what does it tell you about the site?
+
+  * Advertising. What does the advertising on this site (or lack of it) tell
+you about the intended audience for this site? About yourself as an audience?
+
+  * Robot-readable elements. Which elements are there more for search engines
+to read than for human users?
+
+  * Privacy features. Do you feel this site adequately considers users'
+privacy? Why or why not?
+
+  * Name conventions. How does this site ask users to identify themselves -
+with real names? Nicknames? Do they need to give financial or geographic
+information to sign up?
+
+### Videos, scripts, and storyboards (due December 10)
+
+What take on the media that you learned in this class is, in your opinion, the
+most important for others to know? How would you communicate it to someone
+else? The final project will be
+
+### Revision to one earlier assignment (due December 13)
+
+Revising is an important part of writing (or editing video, or producing ads
+or websites or just about any other media) in professional settings. Pick an
+assignment from this course (not one of the one-page assignments) that you
+would like to do better on. Consult with me about what might need improvement.
+Then turn in your revisions by the last day of class.
+
+
+<table cellpadding="5" border="1px"><tr colspan=2>
+<td><h2>If you liked this,</h2></td> 
+<td><h2>read this</h2></td></tr>
+<tr>
+<td>Here Comes Everybody</td>
+<td>Goldhaber, <a href="http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/519/440">The Attention Economy and the Net</a> </td></tr>
+<tr>
+  <td>Breaking The News</td>
+  <td>Marche, 
+<a href="http://www.esquire.com/blogs/culture/niall-ferguson-newsweek-cover-11914269">The Real Problem with Niall Ferguson's Letter to the 1%</a>
+<br />Bogost, <a href="http://www.bogost.com/blog/speaking_of_fees.shtml">Speaking of Fees... The facile scourge of paid speaking</a>
+</td>
+</tr>
+</table>
