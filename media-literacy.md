@@ -2,17 +2,11 @@
 
 ## Room LT 209
 
-**COM 155L111 Monday and Thursday 9:30 am-10:45 am
 
-COM 155L112 Monday and Thursday 12:30 pm-1:45 pm  **
 
 ## Dr. Gillian Andrews
 
-**Office: LT 226
 
-Office hours: Tuesdays noon-3:00,
-
-Online office hours: Wednesdays 2:30-5:30. Online location to be announced.**
 
 ## Key words:
 
