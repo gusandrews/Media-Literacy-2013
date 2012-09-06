@@ -1,15 +1,37 @@
 # Media Literacy
 
+## Room LT 209
+
+**COM 155L111 Monday and Thursday 9:30 am-10:45 am
+
+COM 155L112 Monday and Thursday 12:30 pm-1:45 pm  **
+
 ## Dr. Gillian Andrews
+
+**Office: LT 226
+
+Office hours: Tuesdays noon-3:00,
+
+Online office hours: Wednesdays 2:30-5:30. Online location to be announced.**
 
 ## Key words:
 
 media studies, digital literacies, new literacy, semiotics, new media,
 communication theory, media ecology
 
-##  Description
+## Description
 
-##  Goals and objectives
+Media Literacy is an introduction to the ways media influences its own future
+as well as our own. This course will help students become more critical of our
+media environment and more effective communicators of ideas, perspectives, and
+knowledge. Media Literacy comprises film, television, radio, the Web, and
+digital games. As both consumers and producers of media, we will analyze and
+make sense of the myriad ways that media informs, obscures, propagates, sells,
+and makes whole our sense of individuality and community. Topics include
+visual signification, digital media, the social functions of the image, and
+the role of media in the cultural process.
+
+## Goals and objectives
 
 Students will:
 
@@ -27,7 +49,7 @@ and literacy;
   * Be able to articulate cultural and political implications of
 communication, with attention to concerns of power and equity.
 
-##  Required books
+## Required books
 
 Lessig, L. (2006) Code: And Other Laws of Cyberspace, Version 2.0. Basic
 Books.
@@ -40,12 +62,13 @@ Icon Books.
 
 Shirky, C. (2008). Here Comes Everybody. New York: The Penguin Press.
 
-
-##  Other readings
+## Other readings
 
 
 Brunton, F. (in press). The Art Of Misdirection: Robot Readability. in _Spam:
-A Flood, A Theory, A History_. Cambridge Mass.:MIT Press
+A Flood, A Theory, A History_. Cambridge, MA: MIT Press
+
+Buckingham, D. (2003). _Media Education. _Polity.
 
 
 Clanchy, M. (1993). Selection from _From Memory to Written Record_, England
@@ -70,10 +93,16 @@ Journal of Communication, 48(1), 16-32.
 
 
 Gauntlett, D. (1998). Ten things wrong with the effects model. In R.
-Dickinson, Ramaswani Harindranath & Olga Linné (Ed.), Approaches to Audiences:
-A Reader. London: Arnold.
+Dickinson, Ramaswani Harindranath & Olga Linne (Ed.), _Approaches to
+Audiences: A Reader_. London: Arnold.
 
-Lesser, G. Children and Television: Lessons From Sesame Stree.
+Gee, J. P. (2003). _What Video Games Have To Teach Us About Learning and
+Literacy_. Palgrave Macmillan.
+
+Lesser, G. (1975). Selection from _Children and Television: Lessons from
+Sesame Street._ Random House, Inc.
+
+McChesney, R.
 
 Prandstraller, F. (2002). Virtual proximity: Creating Connection in an Online
 Fan Community. _Gnovis (Georgetown University online Journal of Communication,
@@ -82,353 +111,7 @@ Culture, and Technology), 3.
 _
 
 
-
-<table cellpadding="5" border="1px">
-  <tbody>
-<tr>
-<td colspan="4"><h2> Class sessions</h2></td>
-</tr>
-<tr>
-<td width="10%">Session</td>
-<td width="44%">Topic</td>
-<td width="44%">DUE IN CLASS</td>
-<td width="2%"><!-- notes --></td>
-</tr>
-
-<tr>
-<td> Session 1, Monday, August 27</td>
-<td><p><strong>Introductions</strong><br />
-  Course overview<br />
-  Get to know the wiki
-      <br />
-      In-class writing assignment
-</p></td>
-<td><p><br />
-  </p></td></tr>
-<tr>
-  <td> Session 2, Thursday, August 30</td>
-  <td><p><strong>Media panics, media attitudes</strong></p>
-    <p>Have you ever heard it said that video games, movies, or the Internet are harming people, or spreading violence, inappropriate content, or hate? Do you agree or disagree, or kinda both? In this class, we will talk about attitudes toward the media -- ours and other people's, not just today but throughout history.</p>
-<p>Watch in class:<br />
-  Report on Colorado Batman shooting<br />
-  versus Charlie Brooker's Newswipe (about 5 min total)
-</p>
-    <p>&nbsp;</p>
-    <p>&nbsp;</p></td>
-  <td><p>READ 2 of these 3 selections, your choice<br />
-    Comics Code History: The Seal of Approval http://cbldf.org/comics-code-history-the-seal-of-approval/ (5 pp)<br />
-      Medieval and Greek writing: Clanchy p 294-300 (6 pp) <br />
-    Children and Television: Lessons From Sesame Street: Lesser: 177-181<br />
-    AND READ <br />
-      <a href="http://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/6868/ ">Is Google Making Us Stupid?</a> (8 pp)      <br />
-      <a href="http://www.medialit.org/reading-room/tv-violence-and-art-asking-wrong-question">TV Violence and the Art of Asking the Wrong Question</a>  (5 pp)      <br />
-      <br />
-      <br />
-      WRITE (1 page):<br />
-      What do the &quot;media panics&quot; we're reading about have in common?</p></td>
-      <td><!-- Clanchy includes the Socrates bit --></td>
-</tr>
-<tr>
-  <td colspan="3">LABOR DAY, MONDAY, SEPTEMBER 3 - NO CLASS</td>
-  </tr>
-<tr>
-<td> Session 3, Thursday, September 6</td>
-<td><p><strong>What media are we talking about? What is media literacy?</strong></p>
-  <p><br />
-    Before we get started on this course, it's a good idea to come to an agreement of what we mean when we say &quot;media.&quot; What's included, and what's not included? What do media do for individuals, and in society?<br />
-    And when we say someone is &quot;media literate,&quot; what does that mean? Why do we call it &quot;literacy&quot; when people aren't reading words?<br />
-  </p></td>
-<td>READ:<strong><br />
-  What are media? Buckingham, p 1-2<br />
-  </strong>Gee, Video Games Learning and Lit, pp 1-4, 13-21, 24-36<strong><br />
-  <br />
-  </strong>Come to class with questions about the reading. What didn't you understand?<br />
-  </strong></td></tr>
-<tr>
-  <td>Session 4, Monday, September 10: </td>
-  <td><p><strong>What is media literacy, and why do we study it?</strong></p>
-    <p><br />
-      As Gee suggests, people read for many reasons, with many perspectives. And as you might expect, people have different reasons they want students to be media literate. Hobbs's article introduces some of these. What do you think of these different perspectives?</p>
-    <p><br />
-      In class: Meet The Media Show<br />
-      Watch Intro, My Hotness Is Pastede On Yey<br />
-    </p></td>
-  <td><p>READ:<br />
-    Hobbs, The Seven Great Debates In The Media Literacy Movement, 16 pp<br />
-  </p>
-    <p>WRITE:<br />
-Gee definitions exercise </p></td>
-  </tr>
-<tr>
-<td> Session 5, Thursday, September 13: </td>
-<td><strong>Theories of the media: Technological determinists?</strong></td>
-<td><p>READ:
-    <br />
-    Carey, McLuhan, and Innis, p 1-23</p>
-  <p>Come to class with questions about the reading. What didn't you understand?</p></td>
-</tr>
-<tr>
-  <td>Session 6, Monday, September 17: </td>
-  <td><strong>Theories of the media: Technological determinists?</strong></td>
-  <td><p>READ:<br />
-    Carey, McLuhan, and Innis p 24-39</p>
-    <p>Come to class with questions about the reading. What didn't you understand?<br />
-    </p></td>
-  </tr>
-<tr>
-<td> Session 7, Thursday, September 20</td>
-<td><strong>Theories of the Media: Further review</strong></td>
-<td><p>READ:<br />
-  Sardar, pages TBA</p>
-  <p><br />
-    WRITE (3 pages):<br />
-    Technological determinism </p></td>
-</tr>
-<tr>
-  <td>Session 8, Monday, September 24: </td>
-  <td><p><strong>Theories of the Media: Participating in fan cultures</strong><br />
-    </p>
-    <p>In class: Make groups for  project</p></td>
-  <td><p>READ:<br />
-    Prandstraller<em> </em>(24 pp)</p></td>
-  </tr>
-<tr>
-  <td>Session 9, Thursday, September 27: </td>
-  <td><p><strong>Theories of the Media: Effects model</strong></p>
-    <p><br />
-      Watch in class: The Media Show, Spice Must Flow</p></td>
-  <td><p>READ:<br />
-    Group 1: read Kalin 1997 Television, Violence, and Children (pp 1-9)<br />
-    Group 2: read Children and the perceived reality of television (pp 86-96)<br />
-    Group 3: read A Process-PFL Approach to Learning in Video Games (10 pp)<br />
-    AND READ:<br />
-All groups: read Ten things wrong with media effects (9 pp)</p>
-    <p>In class: <br />
-      Begin working on scholarly article critique
-    with your group.</p></td>
-  </tr>
-<tr>
-  <td>Session 10, Monday, October 1: </td>
-  <td><p><strong>Theories of the Media: Critiquing the effects model</strong></p>
-    <p><br />
-      Groups will present their critiques in class.</p></td>
-  <td>WRITE:<br />
-    Between classes, continue to write up your group's critique on the wiki.  <br />
-    This project counts as your midterm (I'm scheduling it a little early so you don't have all your midterms the same week.)</td>
-  </tr>
-<tr>
-<td> Session 11, Thursday, October 4: </td>
-<td><p><strong>What are &quot;Mass Media?&quot;</strong></p>
-  <p>Many of the critiques of the effects of media come from the era of <em>mass media</em> -- when there was less broadcast media and film content available, there were fewer channels, and any given media property was much more likely to reach a sizeable percentage of the population. How did this landscape effect what got made -- and how people thought about the effects of media?</p></td>
-<td><strong>McQuail on mass models, p 33-45</strong><br /></td>
-</tr>
-<tr>
-  <td>Session 12, Monday, October 8: </td>
-  <td><p><strong>From Mass Media to Participatory Media</strong></p>
-    <p><br />
-      Digital media have radically changed the shape of fame and audience attention.</p></td>
-  <td><p>READ: <br />
-    Shirky, pp 81-104<br />
-    Gumbaby explanation excerpt (about 1 p)<br />
-      The Floppy Disk Means Save<br />
-    </p></td>
-  </tr>
-<tr>
-<td> Session 13, Thursday, October 11: </td>
-<td><p><strong>Making The Media: Representation</strong></p>
-  <p><br />
-    View in class:<strong> Sports film?</strong></p></td>
-<td><p>READ: <br />
-  Shirky, pp 104-108 and 122-130<br />
-    Pozner, In These Times, on wealth representation, branding, and reality TV (2 pp)<br />
-    Shorthand: women laughing alone with salad, etc<br />
-    </p>
-  <p>WATCH:<br />
-    Screenwipe, reality TV editing (video) <br />
-The Media Show, Stock Photos<br />
-The Media Show, TV Tropes<br />
-The Media Show, Red Shirt Revue
-<br />
-    <br />
-  </p></td>
-</tr>
-<tr>
-  <td>Session 14, Monday, October 15: </td>
-  <td><p><strong>Making The Media: Audiences and Representation</strong></p>
-    <p><br />
-      Discuss: Was the Cluetrain Manifesto right? What has changed and what hasn't?</p></td>
-  <td><p>READ: <br />
-    Cluetrain Manifesto (7 pp)    <br />
-    <br />
-    <br />
-    Superhero gender-bending<br />
-    Disability art<br />
-    <br />
-Murketing</p>
-    <p><br />
-      WATCH: 
-  <br />
-A Hard Day's Work Law and Order supercut  <br />
-      The Media Show, Selling you<br />
-      15 Million Merits </p>
-    <p><br />
-WRITE (1 page):  <br />
-Fan production assignment  <br />
-    </p></td>
-  </tr>
-<tr>
-<td> Session 15, Thursday, October 18: </td>
-<td><p><strong>Making The Media: Commercial constraints</strong></p>
-  <p><br />
-    Advertising may seem like an annoying interruption to the media we actually want to be &quot;reading.&quot; But in fact, it shapes the media in fundamental ways. </p>
-  <p><br />
-    Watch<strong> &quot;From Indymedia to Demand Media: Participation, Surveillance, and the Transformation of Journalism,&quot;</strong> a talk by Professor Chris Anderson at the Next HOPE Conference.</p></td>
-<td><p>READ:<br />
-  McChesney, Age of Hyper-Commercialism p 138-168<br />
-</p>
-  <p>&nbsp;</p></td>
-</tr>
-<tr>
-  <td>Session 16, Monday, October 22: </td>
-  <td><strong>Making The Media: Ownership and Regulation</strong></td>
-  <td>READ: <br />
-    McChesney, Advertising and Policy p 168-174, Market Uber Alles p 175-189<br />
-    DUE: <br />
-New vs old media assignment</td>
-  </tr>
-<tr>
-<td> Session 17, Thursday, October 25: </td>
-<td><p><strong>Making The Media: Ownership and Regulation</strong></p>
-  <p><br />
-    Get Alex Rivera to speak about funding indie sci fi?<br />
-  </p></td>
-<td>READ:<br />
-   McChesney, The Market Uber Alles p 189-209<br />
-   <br />
-   WATCH:<br />
-   Media Show: Cootie Catcher (Synergy)<br /></td>
-</tr>
-<tr>
-  <td>Session 18, Monday, October 29: </td>
-  <td><p><strong>Making The Media: Breaking The News</strong></p>
-    <p><br />
-      Watch in class: Brooker, Newswipe, How To Report The News http://www.youtube.com/watch?v=YtGSXMuWMR4</p></td>
-  <td>READ:<br />
-Fallows: 129-149; 159-181<br /></td>
-  </tr>
-<tr>
-<td> Session 19, Thursday, November 1: </td>
-<td><strong>Making The Media: Breaking The News</strong></td>
-<td><p>READ: <br />
-  Shirky, pp 55-80<br />
-  WRITE: (3 pp)<br />
-Shirky and Fallows</p></td>
-</tr>
-<tr>
-  <td>Session 20, Monday, November 5: </td>
-  <td><p><strong>Aspects of Digital Media: Identification and Trust</strong></p>
-    <p><br />
-      Tutorial: Using WhoIs   <br />
-    </p></td>
-  <td><p>READ:<br />
-    Hargittai, Links of Influence (16 pp) <br />
-    <br />
-    <br />
-  </p></td>
-  </tr>
-<tr>
-<td> Session 21, Thursday, November 8: </td>
-<td><strong>Aspects of Digital Media: Identification and Trust</strong></td>
-<td>READ:<br />
-  Lessig, Architectures of Credentials, 38-54<br />
-  boyd, <a href="http://www.zephoria.org/thoughts/archives/2011/08/04/real-names.html ">real names policies are an abuse of power</a><br />
-<a href="http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/ ">Falsehoods programmers believe about names</a> </td>
-</tr>
-<tr>
-  <td>Session 22, Monday, November 12: </td>
-  <td> <p><strong>Aspects of Digital Media: Privacy</strong></p>
-    <p><br />
-      We'll be watching &quot;Privacy
-      is Dead,&quot; a talk given by private investigator Steven Rambam at the Hackers On Planet Earth (HOPE)
-      Conference. </p></td>
-  <td><br />
-    READ:<br />
-    boyd et al, 22 pp <br />    <br /></td>
-  </tr>
-<tr>
-<td> Session 23, Thursday, November 15</td>
-<td><p><strong>Aspects of Digital Media: Robots</strong></p>
-  <p><br />
-    While computers seem to get &quot;smarter&quot; every year, able to predict what we want before we even know
-    we want it, beneath the surface layer of interaction they may still require us to think they way
-    they do
-    to communicate. This class explores some of the ways in which computers &quot;read&quot; differently from
-    people, with limitations and demands which are helpful to understand in navigating digital texts.</p></td>
-<td>READ:<br />
-  <strong>Brunton, ch 2 section 4 on Robot Readability (about 20 pp) </strong></td>
-</tr>
-<tr>
-  <td>Session 24, Monday, November 19: </td>
-  <td><strong>Aspects of Digital Media:  Is Code Law?</strong></td>
-  <td>READ:
-    Lessig, Code Is Law and 4 Puzzles from Cyberspace (28 pp total in new edition)<br />
-    <p>DUE:<br />
-      Screencast. </p></td>
-  </tr>
-<tr>
-<td colspan="3"> THANKSGIVING BREAK, THURSDAY NOVEMBER 22
-
- - NO CLASS</td></tr>
-<tr>
-  <td>Session 25, Monday, November 26:</td>
-  <td><strong>Aspects of Digital Media: New Digital Divides</strong></td>
-  <td><p>READ:<br />
-    boyd, &quot;White Flight in Networked Publics? How Race and Class Shaped American Teen Engagement with MySpace and Facebook.&quot;
-      36 pp</p>
-<p>&nbsp;</p></td>
-  </tr>
-<tr>
-<td> Session 26, Thursday, November 29</td>
-<td><p><strong>Copyright and Fair Use</strong></p>
-  <p><br />
-    The Media Show: What's Fair Use?<br />
-  </p></td>
-<td><p>&nbsp;</p></td>
-</tr>
-<tr>
-  <td>Session 27, Monday, December 3</td>
-  <td><p><strong>Identification and Trust</strong></p>
-    <p>By now I hope you agree that it is important to understand a text's source
-      in order to evaluate the quality of its contents. How far can this go? Most of us know we should
-      evaluate the quality of information on Wikipedia, but how often can we investigate the sources of
-      what we read? Do we always have to evaluate the quality of news reporting? Of textbooks? How often? How do digital sources change what we need to know?</p></td>
-  <td><p>READ: <br />
-    Feynman, pp 288-302 <br />
-    * http://en.wikipedia.org/wiki/Wikipedia:Verifiability <br />
-    * http://en.wikipedia.org/wiki/Wikipedia:Reliable_sources <br />
-    * http://en.wikipedia.org/wiki/Wikipedia:No_original_research <br />
-    * http://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view </p></td>
-  </tr>
-<tr>
-<td> Session 28, Thursday, December 6: </td>
-<td><strong>Workshop storyboards and scripts in class</strong></td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-  <td>Session 29, Monday, December 10: </td>
-  <td><strong>Final Project Presentations; Final Project Due</strong></td>
-  <td>&nbsp;</td>
-</tr>
-<tr>
-  <td>Session 30, Thursday, December 13: </td>
-  <td><strong>Final Project Presentations; Revisions Due</strong></td>
-  <td>&nbsp;</td>
-</tr>
-  </tbody>
-</table>
-
-
-##  Assignments
+## ASSIGNMENTS
 
 Students will complete a variety of in-class and homework assignments that ask
 them to reflect on the reading and to effectively use digital tools to create
@@ -436,37 +119,590 @@ new media texts. The following assignments will allow the instructor to
 evaluate their progress.
 
 
-Due Thursday, August 30: Media panics (1 page) (2%)
+Due Thursday, August 30: [Media panics (1 page)][2] (2%)
 
-Due Monday, September 10: Gee definitions exercise (digital worksheet on wiki)
-(5%)
+Due Monday, September 10: [Gee definitions exercise (digital worksheet on
+wiki)][3] (5%)
 
-Due Monday, September 17: Technological determinism (3 pages) (6%)
+Due Monday, September 17: [Technological determinism (3 pages)][4] (6%)
 
-Due Monday, October 1: Group scholarly article critique (about 5 pages, on
-wiki) (10%)
+Due Monday, October 1: [Group scholarly article critique (about 5 pages, on
+wiki)][5] (10%)
 
-Due Thursday, October 11: Fan production (1 page) (2%)
+Due Thursday, October 11: [Fan production (1 page)][6] (2%)
 
-Due Monday, October 22: New vs old media assignment (5 page paper or 7 page
-script) (10%)
+Due Monday, October 22: [New vs old media assignment (5 page paper or 7 page
+script)][7] (10%)
 
-Due Thursday, November 1: Shirky and Fallows (3 pages) (6%)
+Due Thursday, November 1: [Shirky and Fallows (3 pages)][8] (6%)
 
-Due Monday, November 19: Screencast (15%)
+Due Monday, November 19: [Screencast][9] (15%)
 
-Due December 10: Videos, scripts, and storyboards (30%)
+Due December 10: Videos, scripts, and storyboards (25%)
 
 Due December 13: Revision to one earlier assignment (not the one-page
 assignments) (4%)
 
-Class participation will account for the remaining 10% of your grade.
+**Participation in class and on the class website will account for the
+remaining 15% of your grade.**
+
+## GRADING
+
+  * **A.** An A student is one who, in addition to all the qualities
+manifested by a B student, seeks mastery of a special field; s/he has
+initiative and originality in attacking and solving problems; s/he shows
+ability in rethinking problems, making associations, and adapting to new and
+changing situations; moreover, s/ he has an appropriate vocabulary at his or
+her command.
+
+  * **B.** To earn a B grade a student must manifest all the qualities
+characteristic of a C student and in addition be able to demonstrate skills
+beyond the basic elements of the course; s/he has a more personal grasp of the
+principles of the course and perceives wider application of them. The student
+should be able to discuss the subject matter of the course with ease.
+
+  * **C.** To earn a C grade a student must be able to demonstrate the basic
+skills of a course, understand the essential background and materials of a
+course, apply the basic principles involved, and express them intelligibly.
+
+  * **D.** A student who is deficient in some degree in any of the areas that
+are characteristic of a C grade will earn a D.
+
+  * **F.** The student has failed to show mastery of the basic subject matter
+for the course.
+
+The grades of A-, B+, B-, C+, C-, D+, D- are used to indicate that a student
+has shown more or less than the usual competency required for that grade.
+
+## Disability support
+
+Students with disabilities who believe they may need accommodations in this
+class are encouraged to contact the Office of Special Services at 575-3274,
+Donnelly Hall 226, or via email at specserv@marist.edu as soon as possible to
+better ensure that such accommodations are implemented in a timely fashion.
+
+## Cell Phone Policy
+
+To help you and everyone around you concentrate, cell phone ringers and
+vibrations are to remain OFF during class, as they would in a professional
+office. Please refrain from texting, calling, or answering texts or calls in
+class.
+
+## ATTENDANCE POLICY
+
+Attendance and punctuality are required. It is each student's responsibility
+to sign the attendance sheet during every class. **Failure to sign the sheet
+will result in an absence being recorded for that day.** If someone else signs
+in for you, you will both lose three points from your final grade. If the
+person who signs in for you admits to her/his misdeed, then only one point
+will be deducted from your grade and her/his grade.
+
+Every student will be allowed to miss two classes for any reason without a
+penalty. There are no excused or unexcused absences.** Every absence after the
+first two absences will result in three points being deducted from the
+student's final grade.**
+
+Arriving late and/or leaving early is unacceptable. You miss out on what we're
+learning, and it distracts all of us. Do not arrive late to class or leave
+class early. **Every tardy or early departure will result in one point being
+deducted from your final grade. **
+
+## How to Do Well in This Class
+
+  * Attend all classes and participate constructively, i.e. answer questions,
+ask questions, and offer helpful suggestions for others' works.
+
+  * Do not cheat on any assignment.
+
+  * Do not spam the instructor with any kind of communication, be it voice,
+text, video, or direct messages in Second Life. (Particularly not direct
+messages in Second Life, I'm almost never there anymore.)
+
+
+
+## Class sessions
+
+Session
+
+Topic
+
+DUE IN CLASS
+
+Session 1, Monday, August 27
+
+**Introductions**
+
+Course overview
+
+In-class writing assignment
+
+
+Session 2, Thursday, August 30
+
+**Media panics, media attitudes**
+
+Have you ever heard it said that video games, movies, or the Internet are
+harming people, or spreading violence, inappropriate content, or hate? Do you
+agree or disagree, or kinda both? In this class, we will talk about attitudes
+toward the media -- ours and other people's, not just today but throughout
+history.
+
+Watch in class:
+
+Report on Colorado Batman shooting
+
+versus Charlie Brooker's Newswipe (about 5 min total)
+
+
+
+READ 2 of these 3 selections, your choice
+
+[Comics Code History: The Seal of Approval][10] (5 pp)
+
+Medieval and Greek writing: Clanchy p 294-300 (6 pp)
+
+Children and Television: Lessons From Sesame Street: Lesser: 177-181
+
+AND READ
+
+[Is Google Making Us Stupid?][11] (8 pp)
+
+
+
+WRITE (1 page):
+
+[What do the "media panics" we're reading about have in common?][2]
+
+LABOR DAY, MONDAY, SEPTEMBER 3 - NO CLASS
+
+Session 3, Thursday, September 6
+
+**What media are we talking about? What is media literacy?**
+
+
+Before we get started on this course, it's a good idea to come to an agreement
+of what we mean when we say "media." What's included, and what's not included?
+What do media do for individuals, and in society?
+
+And when we say someone is "media literate," what does that mean? Why do we
+call it "literacy" when people aren't reading words?
+
+READ:**
+
+**Gee, What Video Games Have To Teach Us About Learning And Literacy, pp 1-4,
+13-21, 24-36**
+
+[TV Violence and the Art of Asking the Wrong Question][12] (5 pp)
+
+
+**Come to class with questions about the reading. What didn't you understand?
+
+Session 4, Monday, September 10:
+
+**What is media literacy, and why do we study it?**
+
+
+As Gee suggests, people read for many reasons, with many perspectives. And as
+you might expect, people have different reasons they want students to be media
+literate. Hobbs's article introduces some of these. What do you think of these
+different perspectives?
+
+
+In class: Meet The Media Show
+
+Watch Intro, My Hotness Is Pastede On Yey
+
+READ:
+
+**What are media? Buckingham, p 1-2**
+
+Hobbs, The Seven Great Debates In The Media Literacy Movement, 16 pp
+
+WRITE:
+
+[Gee definitions exercise ][3]
+
+Session 5, Thursday, September 13:
+
+**Theories of the media: Technological determinists?**
+
+READ:
+
+Carey, McLuhan, and Innis, p 1-23
+
+Come to class with questions about the reading. What didn't you understand?
+
+Session 6, Monday, September 17:
+
+**Theories of the media: Technological determinists?**
+
+READ:
+
+Carey, McLuhan, and Innis p 24-39
+
+Come to class with questions about the reading. What didn't you understand?
+
+Session 7, Thursday, September 20
+
+**Theories of the Media: Further review**
+
+READ:
+
+Sardar, pages TBA
+
+
+WRITE (3 pages):
+
+[Technological determinism][4]
+
+Session 8, Monday, September 24:
+
+**Theories of the Media: Participating in fan cultures**
+
+In class: Make groups for project
+
+READ:
+
+Prandstraller_ _(24 pp)
+
+Session 9, Thursday, September 27:
+
+**Theories of the Media: Effects model**
+
+
+Watch in class: The Media Show, Spice Must Flow
+
+READ:
+
+Group 1: read Kalin 1997 Television, Violence, and Children (pp 1-9)
+
+Group 2: read Children and the perceived reality of television (pp 86-96)
+
+Group 3: read A Process-PFL Approach to Learning in Video Games (10 pp)
+
+AND READ:
+
+All groups: read Ten things wrong with media effects (9 pp)
+
+In class:
+
+Begin working on [scholarly article critique][5] with your group.
+
+Session 10, Monday, October 1:
+
+**Theories of the Media: Critiquing the effects model**
+
+
+Groups will present their critiques in class.
+
+WRITE:
+
+Between classes, continue to write up your [group's critique][5] on the wiki.
+
+This project counts as your midterm (I'm scheduling it a little early so you
+don't have all your midterms the same week.)
+
+Session 11, Thursday, October 4:
+
+**What are "Mass Media?"**
+
+Many of the critiques of the effects of media come from the era of _mass
+media_ -- when there was less broadcast media and film content available,
+there were fewer channels, and any given media property was much more likely
+to reach a sizeable percentage of the population. How did this landscape
+effect what got made -- and how people thought about the effects of media?
+
+**McQuail (6th edition) on mass models, p 52-63**
+
+Session 12, Monday, October 8:
+
+**From Mass Media to Participatory Media**
+
+
+Digital media have radically changed the shape of fame and audience attention.
+
+READ:
+
+Shirky, pp 81-104
+
+Gumbaby explanation excerpt (about 1 p)
+
+The Floppy Disk Means Save
+
+Session 13, Thursday, October 11:
+
+**Making The Media: Representation**
+
+One thing that just about all media scholars agree is that the media do not
+reflect reality "as it is" -- because they are created by people, they always
+represent some particular take on reality. You may have heard criticism of how
+media represent women or people of color, or how they glorify criminals... but
+have you thought about how they represent rich and poor people, people with
+disabilities, different professions, or sports? In the next few classes we
+will explore representation, and how it interacts with advertisers' plans to
+reach audiences.
+
+READ:
+
+Shirky, pp 104-108 and 122-130
+
+Pozner, In These Times, on wealth representation, branding, and reality TV (2
+pp)
+
+WATCH:
+
+Screenwipe, reality TV editing (video)
+
+The Media Show, Stock Photos
+
+The Media Show, TV Tropes
+
+The Media Show, Red Shirt Revue
+
+A Hard Day's Work Law and Order supercut
+
+Session 14, Monday, October 15:
+
+**Making The Media: Audiences and Representation**
+
+And, of course, new media have also transformed the meanings and contexts of
+representations. The Cluetrain Manifesto was produced by a couple of guys in
+advertising around the recent turn of the century, just as people were
+realizing how the Internet might change the relationship between consumer
+audiences and advertisers.
+
+
+View in class: **Just A Game**
+
+READ:
+
+Cluetrain Manifesto (7 pp)
+
+
+Superhero gender-bending
+
+Disability art
+
+Murketing
+
+
+WATCH:
+
+The Media Show, Selling you
+
+15 Million Merits
+
+
+WRITE (1 page):
+
+[Fan production assignment ][6]
+
+Session 15, Thursday, October 18:
+
+**Making The Media: Commercial constraints**
+
+
+Advertising may seem like an annoying interruption to the media we actually
+want to be "reading." But in fact, it shapes the media in fundamental ways. We
+transition from discussing how media makers' conceptions of audiences interact
+with their representations, to discussing how advertising funding shapes those
+audiences, and ultimately shapes the media we see.
+
+
+Watch** "From Indymedia to Demand Media: Participation, Surveillance, and the
+Transformation of Journalism,"** a talk by Professor Chris Anderson at the
+Next HOPE Conference.
+
+READ:
+
+McChesney, Age of Hyper-Commercialism p 138-168
+
+
+Session 16, Monday, October 22:
+
+**Making The Media: Ownership and Regulation
+
+**Advertising shapes media by being a funding source, but other forces shape
+what we see as well. We'll start discussing the impact of ownership, and the
+impact of government regulation on the content that media-makers give us.
+
+READ:
+
+McChesney, Advertising and Policy p 168-174, Market Uber Alles p 175-189
+
+DUE:
+
+[New vs old media assignment][7]
+
+Session 17, Thursday, October 25:
+
+**Making The Media: Ownership and Regulation**
+
+
+Possible lecture: Alex Rivera, director of Sleep Dealer
+
+READ:
+
+McChesney, The Market Uber Alles p 189-209
+
+
+WATCH:
+
+Media Show: Cootie Catcher (Synergy)
+
+Session 18, Monday, October 29:
+
+**Making The Media: Breaking The News**
+
+
+Watch in class: Brooker, Newswipe, [How To Report The News][13]
+
+READ:
+
+Fallows: 129-149; 159-181
+
+Session 19, Thursday, November 1:
+
+**Making The Media: Breaking The News**
+
+READ:
+
+Shirky, pp 55-80
+
+WRITE: (3 pp)
+
+Shirky and Fallows
+
+Session 20, Monday, November 5:
+
+**Aspects of Digital Media: Identification and Trust**
+
+
+Tutorial: Using WhoIs
+
+READ:
+
+Hargittai, Links of Influence (16 pp)
+
+Session 21, Thursday, November 8:
+
+**Aspects of Digital Media: Identification and Trust**
+
+READ:
+
+Lessig, Architectures of Credentials, 38-54
+
+boyd, [real names policies are an abuse of power][14]
+
+[Falsehoods programmers believe about names][15]
+
+Session 22, Monday, November 12:
+
+**Aspects of Digital Media: Privacy**
+
+
+We'll be watching "Privacy is Dead," a talk given by private investigator
+Steven Rambam at the Hackers On Planet Earth (HOPE) Conference.
+
+
+READ:
+
+boyd et al, 22 pp
+
+Session 23, Thursday, November 15
+
+**Aspects of Digital Media: Robots**
+
+
+While computers seem to get "smarter" every year, able to predict what we want
+before we even know we want it, beneath the surface layer of interaction they
+may still require us to think they way they do to communicate. The next few
+classes explore some of the ways in which computers "read" and "think"
+differently from people, with limitations and demands which are helpful when
+we're trying to figure out how to "read" digital media.
+
+READ:
+
+**Brunton, ch 2 section 4 on Robot Readability (about 20 pp) **
+
+Session 24, Monday, November 19:
+
+**Aspects of Digital Media: Is Code Law?**
+
+READ: Lessig, Code Is Law and 4 Puzzles from Cyberspace (28 pp total in new
+edition)
+
+DUE:
+
+[Screencast][9].
+
+THANKSGIVING BREAK, THURSDAY NOVEMBER 22 - NO CLASS
+
+Session 25, Monday, November 26:
+
+**Aspects of Digital Media: New Digital Divides**
+
+READ:
+
+boyd, "White Flight in Networked Publics? How Race and Class Shaped American
+Teen Engagement with MySpace and Facebook." 36 pp
+
+
+Session 26, Thursday, November 29
+
+**Copyright and Fair Use**
+
+
+The Media Show: What's Fair Use?
+
+
+Session 27, Monday, December 3
+
+**Identification and Trust**
+
+By now I hope you agree that it is important to understand what goes into
+making a media text, in order to evaluate the quality of its contents. How far
+can this go? Most of us know we should evaluate the quality of information on
+Wikipedia, but why? How often can we investigate the sources of what we read?
+Do we always have to evaluate the quality of news reporting? Of textbooks? How
+often? How do digital sources change what we need to know?
+
+READ:
+
+Feynman, pp 288-302
+
+* http://en.wikipedia.org/wiki/Wikipedia:Verifiability
+
+* http://en.wikipedia.org/wiki/Wikipedia:Reliable_sources
+
+* http://en.wikipedia.org/wiki/Wikipedia:No_original_research
+
+* http://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view
+
+Session 28, Thursday, December 6:
+
+**Workshop storyboards and scripts in class**
+
+
+Session 29, Monday, December 10:
+
+**Final Project Presentations; Final Project Due**
+
+
+Session 30, Thursday, December 13:
+
+**Final Project Presentations; Revisions Due**
+
+
+
+* * *
+
 
 ### Media panics (1 page, due Thursday, August 30)
 
 **What do the "media panics" we're reading about have in common?** Gerbner
-said "The usual question – "Does television violence incite real-life
-violence?" – is itself a symptom rather than diagnostic tool of the problem."
+said "The usual question - "Does television violence incite real-life
+violence?" - is itself a symptom rather than diagnostic tool of the problem."
 What might he have said was "the usual question" about medieval writing, the
 alphabet, comic books, Google, and Sesame Street? What do you think people's
 concerns about these media products were "symptoms" of?
@@ -552,9 +788,11 @@ there's no point in using it if you're just going to have someone lecturing to
 the camera! (Yeah, I know. I am bad at following this advice myself.) See the
 example script if you need some guidance on how to include visuals.
 
-Recommended scriptwriting software: [Celtx][6] (it's free!)
+Recommended scriptwriting software: [Celtx][16] (it's free!)
 
-### Group scholarly article critique (about 5 pages, on wiki; due Monday, October
+###
+
+Group scholarly article critique (about 5 pages, on wiki; due Monday, October
 1)
 
 This project counts as your midterm (I'm scheduling it a little early so you
@@ -592,7 +830,9 @@ Between classes, continue to write your group's critique. Post it on the wiki.
 
 Monday, October 1: Groups will present their critiques in class.
 
-### Fan production (1 page, due Thursday, October 15)
+###
+
+Fan production (1 page, due Thursday, October 15)
 
 Online, find an example of a fan community which has created its own work --
 writing, art, video, etc -- based on a mass media property.
@@ -628,7 +868,9 @@ Prandstraller's article on fans writing about U2. Would you say, like they do,
 that these fans are "active consumers" who are creating new meanings? Why or
 why not?
 
-### New vs old media assignment (5 page paper or 7 page script, due Monday,
+###
+
+New vs old media assignment (5 page paper or 7 page script, due Monday,
 October 22)
 
 So now we've talked about how digital media differ from traditional
@@ -675,9 +917,11 @@ there's no point in using it if you're just going to have someone lecturing to
 the camera! (Yeah, I know. I am bad at following this advice myself.) See the
 example script if you need some guidance on how to include visuals.
 
-Recommended scriptwriting software: [Celtx][6] (it's free!)
+Recommended scriptwriting software: [Celtx][16] (it's free!)
 
-### Shirky and Fallows (3 pages, due Thursday, November 1)
+###
+
+Shirky and Fallows (3 pages, due Thursday, November 1)
 
 Shirky writes, "in some cases the change that threatens the profession
 benefits society... even in these situations the professionals can be relied
@@ -689,10 +933,12 @@ says have been addressed by the rise of digital media and their affordances.
 In your conclusion, discuss whether you think Shirky is correct in concluding
 that digital reporting has changed these problems.
 
-### Screencast (due Monday, November 19)
+###
 
-Using software like [Jing][7], [Camtasia][8], [Fraps][9], [HyperCam][10], or
-[iShowU][11], do a walkthrough of a site that you use regularly.
+Screencast (due Monday, November 19)
+
+Using software like [Jing][17], [Camtasia][18], [Fraps][19], [HyperCam][20],
+or [iShowU][21], do a walkthrough of a site that you use regularly.
 
 Navigate through and show the following elements of the website, and evaluate
 the following in your voiceover:
@@ -718,13 +964,35 @@ privacy? Why or why not?
 with real names? Nicknames? Do they need to give financial or geographic
 information to sign up?
 
-### Videos, scripts, and storyboards (due December 10)
+###
 
-What take on the media that you learned in this class is, in your opinion, the
-most important for others to know? How would you communicate it to someone
-else? The final project will be
+Videos, scripts, and storyboards (due December 10)
 
-### Revision to one earlier assignment (due December 13)
+What idea that you learned in this class is, in your opinion, the most
+important for others to know about the media and how we think about them? How
+would you communicate it to someone else? The final project will be producing
+a three-minute video communicating an idea from the class to other students.
+You will work in teams of two to produce the videos. One option is to revise
+and produce one of the scripts you wrote earlier in the class; or, you can
+develop a new script for this project. I will meet with each team to
+"greenlight" and help you plan your ideas, helping make sure they'll satisfy
+the course requirement and that you're not trying to make something too big
+for a final project.
+
+As I said earlier: Be sure to specify in your script how you will use visual
+elements to demonstrate the points you are making. Video is a visual medium;
+there's no point in using it if you're just going to have someone lecturing to
+the camera! (Yeah, I know. I am bad at following this advice myself.) See the
+example script if you need some guidance on how to include visuals.
+
+In addition to developing a **script** you will also develop a **storyboard**
+to plan the shots for your video. We will **workshop** both of these in class
+before the due date. We may also workshop your **rough cuts** so you have a
+chance to improve your videos before the final presentation.
+
+###
+
+Revision to one earlier assignment (due December 13)
 
 Revising is an important part of writing (or editing video, or producing ads
 or websites or just about any other media) in professional settings. Pick an
@@ -733,17 +1001,19 @@ would like to do better on. Consult with me about what might need improvement.
 Then turn in your revisions by the last day of class.
 
 
-<table cellpadding="5" border="1px"><tr colspan=2>
-<td><h2>If you liked this,</h2></td> 
-<td><h2>read this</h2></td></tr>
-<tr>
-<td>Here Comes Everybody</td>
-<td>Goldhaber, <a href="http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/519/440">The Attention Economy and the Net</a> </td></tr>
-<tr>
-  <td>Breaking The News</td>
-  <td>Marche, 
-<a href="http://www.esquire.com/blogs/culture/niall-ferguson-newsweek-cover-11914269">The Real Problem with Niall Ferguson's Letter to the 1%</a>
-<br />Bogost, <a href="http://www.bogost.com/blog/speaking_of_fees.shtml">Speaking of Fees... The facile scourge of paid speaking</a>
-</td>
-</tr>
-</table>
+## If you liked this,
+
+## read this
+
+Here Comes Everybody
+
+Goldhaber, [The Attention Economy and the Net][22]
+
+Breaking The News
+
+Marche, [The Real Problem with Niall Ferguson's Letter to the 1%][23]
+
+Bogost, [Speaking of Fees... The facile scourge of paid speaking][24]
+
+  
+
