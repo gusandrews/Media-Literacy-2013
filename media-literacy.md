@@ -2,11 +2,17 @@
 
 ## Room LT 209
 
+**COM 155L111 Monday and Thursday 9:30 am-10:45 am
 
+COM 155L112 Monday and Thursday 12:30 pm-1:45 pm  **
 
 ## Dr. Gillian Andrews
 
+**Office: LT 226
 
+Office hours: Tuesdays noon-3:00,
+
+Online office hours: Wednesdays 2:30-5:30. Online location to be announced.**
 
 ## Key words:
 
@@ -271,20 +277,11 @@ LABOR DAY, MONDAY, SEPTEMBER 3 - NO CLASS
 
 Session 3, Thursday, September 6
 
-**What media are we talking about? What is media literacy?**
 
-
-Before we get started on this course, it's a good idea to come to an agreement
-of what we mean when we say "media." What's included, and what's not included?
-What do media do for individuals, and in society?
-
-And when we say someone is "media literate," what does that mean? Why do we
-call it "literacy" when people aren't reading words?
 
 READ:**
 
-**Gee, What Video Games Have To Teach Us About Learning And Literacy, pp 1-4,
-13-21, 24-36**
+****
 
 [TV Violence and the Art of Asking the Wrong Question][12] (5 pp)
 
@@ -293,14 +290,88 @@ READ:**
 
 Session 4, Monday, September 10:
 
-**What is media literacy, and why do we study it?**
+**Media Studies Overview**
+
+Let's clarify what we mean when we say "media." What's included, and what's
+not included? What have a range of scholars said about how media fit into
+society?
+
+In class, we will talk about the truth claims made by the people referred to
+in the articles we previously read, finishing the exercise from last Thursday.
+
+READ:
+
+**What are media? Buckingham, p 1-2
+
+**Sardar and Van Loon, p 6, p 21-37
+
+DO:
+
+Meet with your group to finish the exercise we started in class.
+
+Session 5, Thursday, September 13:
+
+**What is Media Literacy?**
+
+When we say someone is "media literate," what does that mean? Why do we call
+it "literacy" when people aren't reading words?
+
+READ:**
+
+**Sardar and Van Loon, p 6, p 38-46
+
+WRITE:
+
+From "The Seven Great Debates in the Media Literacy Movement" (Renee Hobbs,
+1998:
+
+"At the 1993 Media Literacy National Leadership Conference, U.S. educators
+could not agree on the range of appropriate goals for media education, or the
+scope of appropriate instructional techniques, but they did identify the
+following concepts, based on models developed by British, Australian and
+Canadian
+
+educators that should be included in the analysis of media messages:
+
+  1. media messages are constructed
+
+  2. media messages are produced within economic, social, political,
+historical and aesthetic contexts
+
+  3. the interpretative meaning-making processes involved in message reception
+consists of an interaction between the reader, the text and the culture
+
+  4. media have are unique 'languages,' characteristics which typify various
+forms, genres and symbol systems of communication
+
+  5. media representations play a role in people's understanding of social
+reality"
 
 
-As Gee suggests, people read for many reasons, with many perspectives. And as
-you might expect, people have different reasons they want students to be media
-literate. Hobbs's article introduces some of these. What do you think of these
-different perspectives?
+Match each of Renee Hobbs's outline points to a media theory mentioned in what
+you've read so far in Introducing Media Studies. There may be more than one
+theory matched to more than of her numbered points, and vice versa. Send your
+answers in to me via iLearn.
 
+
+Session 6, Monday, September 17:
+
+
+People read for many reasons, with many perspectives. James Gee builds on
+Saussure's ideas about semiotics.
+
+READ:
+
+Gee, What Video Games Have To Teach Us About Learning And Literacy, pp 1-4,
+13-21, 24-36
+
+WRITE:
+
+[Gee definitions exercise ][3]
+
+Session 7, Thursday, September 20
+
+**Theories of the Media: Participating in fan cultures**
 
 In class: Meet The Media Show
 
@@ -308,56 +379,13 @@ Watch Intro, My Hotness Is Pastede On Yey
 
 READ:
 
-**What are media? Buckingham, p 1-2**
-
-Hobbs, The Seven Great Debates In The Media Literacy Movement, 16 pp
-
-WRITE:
-
-[Gee definitions exercise ][3]
-
-Session 5, Thursday, September 13:
-
-**Theories of the media: Technological determinists?**
-
-READ:
-
-Carey, McLuhan, and Innis, p 1-23
-
-Come to class with questions about the reading. What didn't you understand?
-
-Session 6, Monday, September 17:
-
-**Theories of the media: Technological determinists?**
-
-READ:
-
-Carey, McLuhan, and Innis p 24-39
-
-Come to class with questions about the reading. What didn't you understand?
-
-Session 7, Thursday, September 20
-
-**Theories of the Media: Further review**
-
-READ:
-
-Sardar, pages TBA
-
-
-WRITE (3 pages):
-
-[Technological determinism][4]
+Prandstraller_ _(24 pp)
 
 Session 8, Monday, September 24:
 
-**Theories of the Media: Participating in fan cultures**
 
 In class: Make groups for project
 
-READ:
-
-Prandstraller_ _(24 pp)
 
 Session 9, Thursday, September 27:
 
