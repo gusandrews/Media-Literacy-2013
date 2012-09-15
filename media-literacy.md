@@ -2,17 +2,11 @@
 
 ## Room LT 209
 
-**COM 155L111 Monday and Thursday 9:30 am-10:45 am
 
-COM 155L112 Monday and Thursday 12:30 pm-1:45 pm  **
 
 ## Dr. Gillian Andrews
 
-**Office: LT 226
 
-Office hours: Tuesdays noon-3:00,
-
-Online office hours: Wednesdays 2:30-5:30. Online location to be announced.**
 
 ## Key words:
 
@@ -119,29 +113,27 @@ new media texts. The following assignments will allow the instructor to
 evaluate their progress.
 
 
-Due Thursday, August 30: [Media panics (1 page)][2] (2%)
+Due Thursday, August 30: [Media panics (1 page)][2] (no grade)
 
-Due Monday, September 10: [Gee definitions exercise (digital worksheet on
-wiki)][3] (5%)
+Due Thursday, September 20: [Gee definitions exercise (digital worksheet on
+forums)][3] (7%)
 
-Due Monday, September 17: [Technological determinism (3 pages)][4] (6%)
+Due Monday/Tuesday, October 1-2: [Group scholarly article critique (about 5
+pages, on forums)][4] (10%, counts as midterm)
 
-Due Monday, October 1: [Group scholarly article critique (about 5 pages, on
-wiki)][5] (10%)
-
-Due Thursday, October 11: [Fan production (1 page)][6] (2%)
+Due Thursday, October 11: [Fan production (1 page)][5] (3%)
 
 Due Monday, October 22: [New vs old media assignment (5 page paper or 7 page
-script)][7] (10%)
+script)][6] (10%)
 
-Due Thursday, November 1: [Shirky and Fallows (3 pages)][8] (6%)
+Due Thursday, November 1: [Shirky and Fallows (3 pages)][7] (6%)
 
-Due Monday, November 19: [Screencast][9] (15%)
+Due Monday, November 19: [Screencast][8] (15%)
 
 Due December 10: Videos, scripts, and storyboards (25%)
 
 Due December 13: Revision to one earlier assignment (not the one-page
-assignments) (4%)
+assignments) (9%)
 
 **Participation in class and on the class website will account for the
 remaining 15% of your grade.**
@@ -257,7 +249,7 @@ versus Charlie Brooker's Newswipe (about 5 min total)
 
 READ 2 of these 3 selections, your choice
 
-[Comics Code History: The Seal of Approval][10] (5 pp)
+[Comics Code History: The Seal of Approval][9] (5 pp)
 
 Medieval and Greek writing: Clanchy p 294-300 (6 pp)
 
@@ -265,7 +257,7 @@ Children and Television: Lessons From Sesame Street: Lesser: 177-181
 
 AND READ
 
-[Is Google Making Us Stupid?][11] (8 pp)
+[Is Google Making Us Stupid?][10] (8 pp)
 
 
 
@@ -277,16 +269,17 @@ LABOR DAY, MONDAY, SEPTEMBER 3 - NO CLASS
 
 Session 3, Thursday, September 6
 
+Come to class with questions about the reading. What didn't you understand?
 
+In class: Begin discussing the truth claims made in each of the media panics
+articles with your groups. How might we evaluate these claims?
 
 READ:**
 
-****
-
-[TV Violence and the Art of Asking the Wrong Question][12] (5 pp)
+[TV Violence and the Art of Asking the Wrong Question][11] (5 pp)
 
 
-**Come to class with questions about the reading. What didn't you understand?
+**
 
 Session 4, Monday, September 10:
 
@@ -356,41 +349,46 @@ answers in to me via iLearn.
 
 Session 6, Monday, September 17:
 
-
-People read for many reasons, with many perspectives. James Gee builds on
-Saussure's ideas about semiotics.
+**Theories of the Media: Semiotics**
 
 READ:
 
 Gee, What Video Games Have To Teach Us About Learning And Literacy, pp 1-4,
 13-21, 24-36
 
-WRITE:
-
-[Gee definitions exercise ][3]
+Come to class with questions about the reading. What didn't you understand?
 
 Session 7, Thursday, September 20
 
-**Theories of the Media: Participating in fan cultures**
+**Theories of the Media: Semiotics**
 
 In class: Meet The Media Show
 
-Watch Intro, My Hotness Is Pastede On Yey
+DUE:
+
+[Gee definitions exercise ][3]
+
+Session 8, Monday, September 24:
+
+**Theories of the Media: Uses/Gratifications**
+
+In class: Make groups for next project
 
 READ:
 
 Prandstraller_ _(24 pp)
 
-Session 8, Monday, September 24:
+Come to class prepared to talk about Gee and Prandstraller. Before reading
+these pieces, what did the word "fans" mean to you? What did these two authors
+say about fan communities that were new to you?
 
+WRITE (1 page):
 
-In class: Make groups for project
-
+[Fan production assignment ][5]
 
 Session 9, Thursday, September 27:
 
 **Theories of the Media: Effects model**
-
 
 Watch in class: The Media Show, Spice Must Flow
 
@@ -402,31 +400,39 @@ Group 2: read Children and the perceived reality of television (pp 86-96)
 
 Group 3: read A Process-PFL Approach to Learning in Video Games (10 pp)
 
-AND READ:
-
-All groups: read Ten things wrong with media effects (9 pp)
+There will be many terms in this reading which you will not have heard of
+before, like
 
 In class:
 
-Begin working on [scholarly article critique][5] with your group.
+Begin working on [scholarly article critique][4] with a group discussion.
 
 Session 10, Monday, October 1:
 
 **Theories of the Media: Critiquing the effects model**
 
+READ:
 
-Groups will present their critiques in class.
+Ten things wrong with media effects (9 pp)
+
+Come to class with questions about the reading. What didn't you understand? If
+it seemed relatively clear to you, what stuck out to you as interesting in
+this reading?
 
 WRITE:
 
-Between classes, continue to write up your [group's critique][5] on the wiki.
+Have a draft of your group's scholarly article critique with you in class so
+we can keep working on it.
+
+**Post the final version of your group's critique to the forums by 10 pm,
+Tuesday, October 2.**
 
 This project counts as your midterm (I'm scheduling it a little early so you
 don't have all your midterms the same week.)
 
 Session 11, Thursday, October 4:
 
-**What are "Mass Media?"**
+**Theories of the Media: Mass media theory**
 
 Many of the critiques of the effects of media come from the era of _mass
 media_ -- when there was less broadcast media and film content available,
@@ -436,20 +442,22 @@ effect what got made -- and how people thought about the effects of media?
 
 **McQuail (6th edition) on mass models, p 52-63**
 
+Come to class with questions about the reading. What didn't you understand? If
+it seemed relatively clear to you, what stuck out to you as interesting in
+this reading?
+
 Session 12, Monday, October 8:
 
 **From Mass Media to Participatory Media**
-
 
 Digital media have radically changed the shape of fame and audience attention.
 
 READ:
 
-Shirky, pp 81-104
+Shirky, pp 81-108
 
-Gumbaby explanation excerpt (about 1 p)
-
-The Floppy Disk Means Save
+Come to class with one assumption about media that mass media theory makes
+which Shirky says is changed by new digital media.
 
 Session 13, Thursday, October 11:
 
@@ -464,9 +472,9 @@ disabilities, different professions, or sports? In the next few classes we
 will explore representation, and how it interacts with advertisers' plans to
 reach audiences.
 
-READ:
+View in class: **Just A Game**
 
-Shirky, pp 104-108 and 122-130
+READ:
 
 Pozner, In These Times, on wealth representation, branding, and reality TV (2
 pp)
@@ -475,13 +483,13 @@ WATCH:
 
 Screenwipe, reality TV editing (video)
 
+A Hard Day's Work Law and Order supercut
+
 The Media Show, Stock Photos
 
 The Media Show, TV Tropes
 
 The Media Show, Red Shirt Revue
-
-A Hard Day's Work Law and Order supercut
 
 Session 14, Monday, October 15:
 
@@ -489,40 +497,34 @@ Session 14, Monday, October 15:
 
 And, of course, new media have also transformed the meanings and contexts of
 representations. The Cluetrain Manifesto was produced by a couple of guys in
-advertising around the recent turn of the century, just as people were
-realizing how the Internet might change the relationship between consumer
-audiences and advertisers.
-
-
-View in class: **Just A Game**
+advertising around the year 2000, just as people were realizing how the
+Internet might change the relationship between consumer audiences and
+advertisers.
 
 READ:
 
+Shirky, pp 122-130
+
 Cluetrain Manifesto (7 pp)
 
-
-Superhero gender-bending
-
-Disability art
-
 Murketing
-
 
 WATCH:
 
 The Media Show, Selling you
 
-15 Million Merits
+VIEW:
 
+Superhero gender-bending
 
-WRITE (1 page):
+Disability art
 
-[Fan production assignment ][6]
 
 Session 15, Thursday, October 18:
 
-**Making The Media: Commercial constraints**
+**Making The Media: Commercial constraints
 
+**
 
 Advertising may seem like an annoying interruption to the media we actually
 want to be "reading." But in fact, it shapes the media in fundamental ways. We
@@ -530,15 +532,13 @@ transition from discussing how media makers' conceptions of audiences interact
 with their representations, to discussing how advertising funding shapes those
 audiences, and ultimately shapes the media we see.
 
-
-Watch** "From Indymedia to Demand Media: Participation, Surveillance, and the
-Transformation of Journalism,"** a talk by Professor Chris Anderson at the
-Next HOPE Conference.
-
 READ:
 
 McChesney, Age of Hyper-Commercialism p 138-168
 
+WATCH:
+
+15 Million Merits
 
 Session 16, Monday, October 22:
 
@@ -548,20 +548,21 @@ Session 16, Monday, October 22:
 what we see as well. We'll start discussing the impact of ownership, and the
 impact of government regulation on the content that media-makers give us.
 
+Watch** "From Indymedia to Demand Media: Participation, Surveillance, and the
+Transformation of Journalism,"** a talk by Professor Chris Anderson at the
+Next HOPE Conference.
+
 READ:
 
 McChesney, Advertising and Policy p 168-174, Market Uber Alles p 175-189
 
 DUE:
 
-[New vs old media assignment][7]
+[New vs old media assignment][6]
 
 Session 17, Thursday, October 25:
 
 **Making The Media: Ownership and Regulation**
-
-
-Possible lecture: Alex Rivera, director of Sleep Dealer
 
 READ:
 
@@ -577,11 +578,11 @@ Session 18, Monday, October 29:
 **Making The Media: Breaking The News**
 
 
-Watch in class: Brooker, Newswipe, [How To Report The News][13]
+Watch in class: Brooker, Newswipe, [How To Report The News][12]
 
 READ:
 
-Fallows: 129-149; 159-181
+Fallows: 129-143; 159-181
 
 Session 19, Thursday, November 1:
 
@@ -614,9 +615,9 @@ READ:
 
 Lessig, Architectures of Credentials, 38-54
 
-boyd, [real names policies are an abuse of power][14]
+boyd, [real names policies are an abuse of power][13]
 
-[Falsehoods programmers believe about names][15]
+[Falsehoods programmers believe about names][14]
 
 Session 22, Monday, November 12:
 
@@ -656,7 +657,7 @@ edition)
 
 DUE:
 
-[Screencast][9].
+[Screencast][8].
 
 THANKSGIVING BREAK, THURSDAY NOVEMBER 22 - NO CLASS
 
@@ -786,36 +787,10 @@ How is the SITUATED MEANING of this social practice seen differently by people
 who do and do not participate in this domain?
 
 
-### Technological determinism (3 page paper or 5 page script, due Monday,
-September 17)
-
-Innis and McLuhan believed that media had certain effects on individuals and
-society. Which of the "media panics" we read about earlier assume the same or
-similar effects? Given his critique of Innis's and McLuhan's work, what would
-Carey say about these panics?
-
-You have three options for writing this:
-
-  * Option 1: write it as a traditional paper; 3 pages.
-
-  * Option 2: write it as a script for a five-minute episode of The Media
-Show, using Weena, Erna, the Intern, and other characters as you see fit; 5
-pages.
-
-  * Option 3: write it as a script for your own five-minute video; 5 pages.
-
-**IF YOU ARE WRITING A SCRIPT**: Be sure to specify how you will use visual
-elements to demonstrate the points you are making. Video is a visual medium;
-there's no point in using it if you're just going to have someone lecturing to
-the camera! (Yeah, I know. I am bad at following this advice myself.) See the
-example script if you need some guidance on how to include visuals.
-
-Recommended scriptwriting software: [Celtx][16] (it's free!)
-
 ###
 
-Group scholarly article critique (about 5 pages, on wiki; due Monday, October
-1)
+Group scholarly article critique (about 5 pages; draft due Monday, October 1,
+final paper due 10 pm on Tuesday, October 2)
 
 This project counts as your midterm (I'm scheduling it a little early so you
 don't have all your midterms the same week.)
@@ -832,34 +807,54 @@ bibliography)
 Monday the 24th: we will set groups in class. You may want to communicate with
 your group members while doing the reading before the next class.
 
-Thursday the 27th (in class): **With your group, develop a critique of the
-article you read, addressing these questions:**
-
-  * What would the people we have read to date (Gee, Innis, McLuhan, Gerbner,
-scholars mentioned by Sardar and Hobbs, Prandstraller, Jenkins, and Gauntlett)
-say about the claims made in this article, and why?
+Thursday the 27th (in class): **With your group, develop a paper critiquing
+the article you read, addressing these questions:**
 
   * These articles make scientific claims, using statistics and evidence from
-experiments. How valid do you think they are? (This is sort of a "what's wrong
-with this picture?" assignment.) In addition to drawing on the theories we
-have read so far,** each member of your group should identify one decision**
-made by the researchers which could compromise the scientific results of their
-study. Some options might be the number of children studied, the ways they
-gathered their data, or the way they framed their research question, but other
-decisions are also fair game.
+experiments. Based on our earlier discussion about truth claims, how valid do
+you think the claims are?
 
-Between classes, continue to write your group's critique. Post it on the wiki.
+    * In addition to drawing on the theories we have read so far,** each
+member of your group should identify one decision made by the researchers as
+they designed their study** which could compromise their scientific results.
+Some options might be the number of people studied, the ways they gathered
+their data, or the way they framed their research question, but other
+decisions are also fair game. What you're looking for may be in the "methods,"
+"methodology," or "procedure" sections, or parts where the author is asking
+questions. Be specific. Make a case for why you think the decision undermines
+what the researchers are claiming.
 
-Monday, October 1: Groups will present their critiques in class.
+  * Think about the theories we have talked about to date -- Gerbner's
+cultivation theory; Gee and Saussure's semiotic approach to understanding how
+people "read" media to be part of a community; Prandstraller and her examples
+of uses and gratifications; effects theorists like Wertham and others who said
+media increase violence (and Gauntlett's critique of media effects research);
+technological determinists like McLuhan and the author writing about Google.
+Viewing your article through the lens of these theories, what would these
+theorists have said about the questions posed by your researchers, or about
+the assumptions they make? **Each member of your group should contribute a
+short paragraph about what one theorist would have said about your article's
+questions and assumptions.**
+
+Between classes, continue to write your group's critique.
+
+These may be scientific articles, but don't take anything they say at face
+value. Take their arguments to pieces and make a case for whether or not you
+think their argument works.
+
+This should be written as an academic paper -- so I shouldn't see "I" or "we."
+No first-person, no "this is my opinion" no "I think..." Make your argument
+based on the evidence.
+
 
 ###
 
-Fan production (1 page, due Thursday, October 15)
+Fan production (1 page, due )
 
-Online, find an example of a fan community which has created its own work --
-writing, art, video, etc -- based on a mass media property.
+Online, find an example of fans who have created their own content -- writing,
+art, video, etc -- based on a mass media property.
 
-Places to start looking for fan works (but anywhere you find one is fine):
+Places to start looking for fan works (but anywhere you find it is fine):
 
   * DeviantArt
 
@@ -871,7 +866,7 @@ Places to start looking for fan works (but anywhere you find one is fine):
 
   * YouTube
 
-On the wiki, link to it (post it if it is an image, embed it if it is a
+On the forum, link to it (post it if it is an image, embed it if it is a
 video).
 
 Briefly say something about what you think the original message of the media
@@ -939,28 +934,46 @@ there's no point in using it if you're just going to have someone lecturing to
 the camera! (Yeah, I know. I am bad at following this advice myself.) See the
 example script if you need some guidance on how to include visuals.
 
-Recommended scriptwriting software: [Celtx][16] (it's free!)
+Recommended scriptwriting software: [Celtx][15] (it's free!)
 
 ###
 
-Shirky and Fallows (3 pages, due Thursday, November 1)
+Shirky and Fallows (3 page paper or 5 page script, due Thursday, November 1)
 
-Shirky writes, "in some cases the change that threatens the profession
-benefits society... even in these situations the professionals can be relied
-upon to care more about self-defense than about progress. What was once a
-service has become a bottleneck."
+Shirky writes, "in some cases the [technological] change that threatens the
+profession benefits society... even in these situations the professionals can
+be relied upon to care more about self-defense than about progress. What was
+once a service has become a bottleneck."
 
 Describe three "bottlenecks" that Fallows described in the 1990s which Shirky
 says have been addressed by the rise of digital media and their affordances.
 In your conclusion, discuss whether you think Shirky is correct in concluding
 that digital reporting has changed these problems.
 
+You have three options for writing this:
+
+  * Option 1: write it as a traditional paper; 3 pages.
+
+  * Option 2: write it as a script for a five-minute episode of The Media
+Show, using Weena, Erna, the Intern, and other characters as you see fit; 5
+pages.
+
+  * Option 3: write it as a script for your own five-minute video; 5 pages.
+
+**IF YOU ARE WRITING A SCRIPT**: Be sure to specify how you will use visual
+elements to demonstrate the points you are making. Video is a visual medium;
+there's no point in using it if you're just going to have someone lecturing to
+the camera! (Yeah, I know. I am bad at following this advice myself.) See the
+example script if you need some guidance on how to include visuals.
+
+Recommended scriptwriting software: [Celtx][15] (it's free!)
+
 ###
 
 Screencast (due Monday, November 19)
 
-Using software like [Jing][17], [Camtasia][18], [Fraps][19], [HyperCam][20],
-or [iShowU][21], do a walkthrough of a site that you use regularly.
+Using software like [Jing][16], [Camtasia][17], [Fraps][18], [HyperCam][19],
+or [iShowU][20], do a walkthrough of a site that you use regularly.
 
 Navigate through and show the following elements of the website, and evaluate
 the following in your voiceover:
@@ -1029,13 +1042,13 @@ Then turn in your revisions by the last day of class.
 
 Here Comes Everybody
 
-Goldhaber, [The Attention Economy and the Net][22]
+Goldhaber, [The Attention Economy and the Net][21]
 
 Breaking The News
 
-Marche, [The Real Problem with Niall Ferguson's Letter to the 1%][23]
+Marche, [The Real Problem with Niall Ferguson's Letter to the 1%][22]
 
-Bogost, [Speaking of Fees... The facile scourge of paid speaking][24]
+Bogost, [Speaking of Fees... The facile scourge of paid speaking][23]
 
-  
+ 
 
